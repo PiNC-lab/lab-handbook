@@ -5,3 +5,4 @@
 ## Contents
 
 - [Useful R packages](useful-packages.md)
+- [Data storage](data-storage.md)
