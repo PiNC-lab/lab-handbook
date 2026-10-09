@@ -10,6 +10,7 @@ Packages people in the lab use a lot. To add one, open a pull request.
 ## Spatial
 
 - **sf**: vector data such as points, lines and polygons.
+- **terra**: reading, writing and processing rasters. Replaces the older raster package.
 
 ## Modelling
 
