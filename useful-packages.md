@@ -20,3 +20,4 @@ Packages people in the lab use a lot. To add one, open a pull request.
 ## Plotting
 
 - **ggplot2**: most of our figures.
+- **tidyr**: reshaping data.
