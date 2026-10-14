@@ -19,3 +19,7 @@ Example content for practising pull requests, not an official lab list. To add a
 ## Plotting
 
 - **ggplot2**: most of our figures.
+
+## geospatial
+
+- **use terra for rasters**
